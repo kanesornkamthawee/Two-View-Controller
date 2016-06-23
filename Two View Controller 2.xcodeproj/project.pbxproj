@@ -14,6 +14,7 @@
 		01DA59571D1B87D0002AC48D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01DA59551D1B87D0002AC48D /* LaunchScreen.storyboard */; };
 		01DA59621D1B87D0002AC48D /* Two_View_Controller_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DA59611D1B87D0002AC48D /* Two_View_Controller_2Tests.swift */; };
 		01DA596D1D1B87D0002AC48D /* Two_View_Controller_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DA596C1D1B87D0002AC48D /* Two_View_Controller_2UITests.swift */; };
+		01DA597B1D1B89ED002AC48D /* KanesornViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DA597A1D1B89ED002AC48D /* KanesornViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		01DA59681D1B87D0002AC48D /* Two View Controller 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Two View Controller 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01DA596C1D1B87D0002AC48D /* Two_View_Controller_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Two_View_Controller_2UITests.swift; sourceTree = "<group>"; };
 		01DA596E1D1B87D0002AC48D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01DA597A1D1B89ED002AC48D /* KanesornViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KanesornViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				01DA594C1D1B87D0002AC48D /* AppDelegate.swift */,
 				01DA594E1D1B87D0002AC48D /* ViewController.swift */,
+				01DA597A1D1B89ED002AC48D /* KanesornViewController.swift */,
 				01DA59501D1B87D0002AC48D /* Main.storyboard */,
 				01DA59531D1B87D0002AC48D /* Assets.xcassets */,
 				01DA59551D1B87D0002AC48D /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				01DA594F1D1B87D0002AC48D /* ViewController.swift in Sources */,
 				01DA594D1D1B87D0002AC48D /* AppDelegate.swift in Sources */,
+				01DA597B1D1B89ED002AC48D /* KanesornViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
